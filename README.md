@@ -1,4 +1,7 @@
 # TempustTerrain
+
+![Tempust Terrain](Screenshots/TerrainScreenshot.png)
+
 Prototype tools for terrain generation using Unity's Spline package. 
 
 ## Ground
